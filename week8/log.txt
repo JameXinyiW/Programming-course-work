@@ -1,0 +1,28 @@
+[2022-10-26 00:07:58][get_log]:print this message for 1 times
+print this message for 2 times
+print this message for 3 times
+print this message for 4 times
+print this message for 5 times
+print this message for 6 times
+print this message for 7 times
+print this message for 8 times
+print this message for 9 times
+[2022-10-26 00:13:27][get_log]:print this message for 1 times
+print this message for 2 times
+print this message for 3 times
+print this message for 4 times
+print this message for 5 times
+print this message for 6 times
+print this message for 7 times
+print this message for 8 times
+print this message for 9 times
+[2022-10-26 00:13:56][get_log]: 
+print this message for 1 times
+print this message for 2 times
+print this message for 3 times
+print this message for 4 times
+print this message for 5 times
+print this message for 6 times
+print this message for 7 times
+print this message for 8 times
+print this message for 9 times
